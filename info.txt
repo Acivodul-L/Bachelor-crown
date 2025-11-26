@@ -1,0 +1,7 @@
+This work doesn't claim to be a wonderful engineering project, just a little funny one. 
+U could sure find better solutions under the electronical perspective.
+Everything on the layout was settled to represent a "realistic" leaf, expecially tracks;
+NOTE ALSO TO MYSELF OF THE FUTURE: that's why Leds aren't numerically ordinated on the PCB and the first 2 R are switched in position. 
+
+My idea was to sold max 1 Led for leaf, depending on where the leaf is placed once i do the art attack with the glue and so on..
+I'll buy like 50 leaves and 1 power circuit, which will go in my task, as well as a powerbank which will give power for everything and an Arduino which will guide the Leds; they'll reach the crown on the head just by long, brown wires which anyway will be under my clothes
